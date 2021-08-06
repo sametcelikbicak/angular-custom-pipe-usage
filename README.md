@@ -1,3 +1,3 @@
-# angular-ivy-vqzoqu
+# angular-custom-pipe-usage
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-vqzoqu)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-custom-pipe-usage)
