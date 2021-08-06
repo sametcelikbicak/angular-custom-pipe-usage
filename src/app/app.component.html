@@ -1,1 +1,9 @@
 <h1>{{title}}</h1>
+
+Date: <h4>{{ initialDate }}</h4>
+
+Date with date pipe: <h4>{{ initialDate | date }}</h4>
+
+Date with custom date pipe: <h4>{{ initialDate | customDate }}</h4>
+
+Date with custom date pipe and custom format: <h4>{{ initialDate | customDate: 'YYYY-MM-DDD HH:mm' }}</h4>
